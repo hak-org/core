@@ -3,8 +3,6 @@ package org.hak.core.generator;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class ShortUuidGeneratorTest {
 
     static StringGenerator generator;
